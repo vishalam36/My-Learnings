@@ -1,0 +1,15 @@
+1) Text-Editor
+        sublime
+        bracket
+        Visual Studio Code
+
+2) Plugin
+        Emmet-the essewntial toolkit for web-developers
+
+3) Browser
+        Chrome
+        Mozilla
+        Explorer
+
+3)
+4)
