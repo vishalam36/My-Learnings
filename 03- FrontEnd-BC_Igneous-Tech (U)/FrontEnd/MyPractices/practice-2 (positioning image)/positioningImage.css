@@ -1,0 +1,14 @@
+div {
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+    height: 900px;
+    background-color: red;
+}
+.centered {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -104px;  /*half of the image width*/
+    margin-left: -121px; /*half od the image height*/
+}
