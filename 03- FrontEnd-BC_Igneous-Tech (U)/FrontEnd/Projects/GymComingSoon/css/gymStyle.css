@@ -1,0 +1,34 @@
+body {
+  background: url('../images/bgGymOp.png') no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Vidaloka', serif;
+}
+
+div {
+  background-color: #dd4814;
+  width: 50%;
+  margin: 100px auto;
+  text-align: center;
+  border-radius: 25px;
+  opacity: 0.8;
+}
+
+button {
+  background: rgb(187, 178, 178);
+  padding: 20px;
+  color: black;
+  font-size: 2em;
+  border-radius: 10px;
+}
+
+h1 {
+  font-size: 4em;
+}
+
+p {
+  font-size: 1.8em;
+}
+i {
+  font-size: 1.8em;
+  color: white;
+}
